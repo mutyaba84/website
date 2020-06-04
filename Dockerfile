@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM website
 ADD . /var/www.html
