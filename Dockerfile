@@ -1,2 +1,2 @@
-FROM apache_ubuntu1804
+FROM ubuntu
 ADD . /var/www.html
